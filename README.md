@@ -11,6 +11,7 @@ For those who hate reading Wikipedia articles, here are the basics:
 1. Battleship is a 2-player game. Each player has their own (usually 10x10) grid, which the other player cannot see.
 2. Each box in the grid is referred to by a number and a letter (A1, D3, F8, B2, etc.), based on its coordinates:
 
+<pre>
       A | B | C | D | E | F | G | ...
     1 _ | _ | _ | _ | _ | _ | _ |
     2 _ | _ | _ | _ | _ | _ | _ |
@@ -20,9 +21,11 @@ For those who hate reading Wikipedia articles, here are the basics:
     6 _ | _ | _ | _ | _ | _ | _ |
     7 _ | _ | _ | _ | _ | _ | _ |
     ...
+</pre>
 
 3. Each player has some number of ships (usually 4 or 5), placed in random places and orientations on their grid. These ships are different lengths (usually between 2 and 5 squares) and have names like "destroyer", "submarine", etc. Somewhat like this: (s = submarine, d = destroyer)
 
+<pre>
       A | B | C | D | E | F | G |
     1 _ | _ | _ | _ | _ | _ | _ |
     2 _ | _ | _ | _ | _ | _ | _ |
@@ -31,6 +34,7 @@ For those who hate reading Wikipedia articles, here are the basics:
     5 _ | _ | _ | _ | _ | d | _ |
     6 _ | _ | _ | _ | _ | d | _ |
     7 _ | _ | _ | _ | _ | d | _ |
+</pre>
 
 4. The players can only see their own ships - they have no idea where the other player's ships are.
 5. The two players take turns guessing individual square coordinates on the other player's board (ex. "A2", "B4", "F6", etc.). If there is a ship at that coordinate, it's considered a "hit". Otherwise, it's a "miss".
