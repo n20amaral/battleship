@@ -5,7 +5,7 @@ The challenge here is to **create an interactive "Battleship" game**
 ## When you're done, create a Github repo with your completed code and send me a direct-message with the link
 
 If you're not familiar with the Battleship board game (it was very popular here in America during my childhood),
-you can read more about it [here](https://en.wikipedia.org/wiki/Battleship_(game))
+you can read more about it <a href="https://en.wikipedia.org/wiki/Battleship_(game)" target="_blank">here</a>. Or if you want to see a working version, take a look at <a href="https://chrome.google.com/webstore/detail/battleship-game/eppeegehlpfamkbmhghlolofedebiaoe?hl=en-US" target="_blank">this</a>
 
 For those who hate reading Wikipedia articles, here are the basics:
 1. Battleship is a 2-player game. Each player has their own (usually 10x10) grid, which the other player cannot see.
